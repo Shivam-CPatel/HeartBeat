@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cst8218.pate0968.heartbeat.entity.AppUserTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec - in cst8218.pate0968.heartbeat.entity.AppUserTests
